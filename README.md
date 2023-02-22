@@ -14,7 +14,7 @@ In order to run any program located in directory "Programs", firstly you need to
 ```
 java compiler Programs/program_hello
 ```
-Command above will generate "Program_Memory" file, which contains machine code. Now we can simply edit program memory in Logisim, enable clock and start CPU with switch(it must be 1);
+Command above will generate "Program_Memory" file, which contains machine code. Now we can simply edit program memory in Logisim, enable clock and start CPU with switch(it must be 1)
 
 ## How to write custom programs?
 
@@ -95,5 +95,5 @@ There are several commends, that compiler can recognize:
 35      8
 36      9
 
-63 	    :)
+63      :)
 ```
