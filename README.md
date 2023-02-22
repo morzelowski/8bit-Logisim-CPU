@@ -38,22 +38,22 @@ There are several commends, that compiler can recognize:
 ## OPCODE
 
 ```
-0000		NOTHING			0000 0000 0000
-0001		ADD-> reg		addr 0000 0000
-0010		AND-> reg		addr 0000 0000  
-0011		OR-> reg 		addr 0000 0000
-0100		XOR-> reg		addr 0000 0000
-0101		WRITE_REG		addr 0000 0000
-0110		MOV 			addr --value--
-0111		SUBTRACTION 	addr 0000 0000
-1000		LOAD_OUTPUT		addr 0000 0000
+0000		NOTHING         0000 0000 0000
+0001		ADD-> reg       addr 0000 0000
+0010		AND-> reg       addr 0000 0000  
+0011		OR-> reg        addr 0000 0000
+0100		XOR-> reg       addr 0000 0000
+0101		WRITE_REG       addr 0000 0000
+0110		MOV             addr --value--
+0111		SUBTRACTION     addr 0000 0000
+1000		LOAD_OUTPUT     addr 0000 0000
 1001		
-1010		SET_A_REG_JMP	addr 0000 0000
+1010		SET_A_REG_JMP   addr 0000 0000
 1011		SET_B_REG_JMP   addr 0000 0000
-1100		JMP			    0000 0000 0000
-1101		JMP_Z			0000 0000 0000
-1110		JMP_C			0000 0000 0000
-1111		JMP_NZ			0000 0000 0000
+1100		JMP             0000 0000 0000
+1101		JMP_Z           0000 0000 0000
+1110		JMP_C           0000 0000 0000
+1111		JMP_NZ          0000 0000 0000
 
 ```
 ## VALUES OF SIGNS FOR VIDEO CARD
