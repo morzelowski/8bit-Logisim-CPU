@@ -8,6 +8,8 @@
 ```                                                               
 The CPU is designed in Logisim-Evolution. It is connected to simple video card with screen.
 
+[![screen.png](https://i.postimg.cc/V6S0LX4q/screen.png)](https://postimg.cc/ygH8LgMx)
+
 ## How to run example programs?
 
 In order to run any program located in directory "Programs", firstly you need to use compiler, which is written in Java. Compile .java file, then we can run compiler using commend in terminal:
